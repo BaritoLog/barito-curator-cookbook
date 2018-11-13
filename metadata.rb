@@ -1,4 +1,4 @@
-name 'barito-curator-cookbook'
+name 'barito_curator'
 maintainer 'The Authors'
 maintainer_email 'you@example.com'
 license 'All Rights Reserved'
