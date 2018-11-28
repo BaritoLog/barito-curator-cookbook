@@ -15,5 +15,5 @@ default[cookbook_name]['barito_curator_repo'] = 'https://github.com/BaritoLog/ba
 default[cookbook_name]['install_directory'] = "/opt/#{cookbook_name}"
 
 
-default[cookbook_name]['barito_api_url'] = 'https://barito.golabs.io/api/profile_curator'
+default[cookbook_name]['barito_api_url'] = 'http://localhost/curator_api'
 default[cookbook_name]['barito_api_client_key'] = 'abcd123'
